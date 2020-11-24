@@ -1,5 +1,8 @@
 ## React Slider Component 
 
+* [Simple Demo](https://roopamgarg.github.io/adaptive-react-slider/)
+
+
 ### Dependencies Required
 * [Node Js](https://nodejs.org/en/)
 

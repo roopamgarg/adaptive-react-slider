@@ -11,7 +11,6 @@ const bg = [
     "#636567",
     "#571eb1",
     "#f7f567",
-
 ]
 const noOfSlides = bg.length;
 
